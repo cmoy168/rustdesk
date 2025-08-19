@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["zahuopu.imdo.co"];
-pub const RS_PUB_KEY: &str = "cg4gYeN5BjYsHxGZcMkNcilYguovSSv6tNPWzQjO1U0=";
+pub const RS_PUB_KEY: &str = "bIDgQrek+ZujQBNnpwm9waz7SY6+MVbzcsy43EDpxHA=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
